@@ -31,10 +31,10 @@ where temp ,hum and windspeed are normalized.
 
 
 ## Technologies Used
-Python 		- Version 3.11.9
-numpy	 	- Version 2.1.3
-pandas 		- Version 2.2.3
-seaborn 	- Version 0.13.2
+- Python 		- Version 3.11.9
+- numpy	 	- Version 2.1.3
+- pandas 		- Version 2.2.3
+- seaborn 	- Version 0.13.2
 scikit-learn - Version 1.6.1
 statsmodels - Version 0.14.4
 jupyterlab	 - Version 4.3.2
