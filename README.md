@@ -41,7 +41,7 @@ matplotlib                3.10.0
 
 - This project was inspired by...
 - References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was based on 
 
 
 ## Contact
