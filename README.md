@@ -26,13 +26,13 @@ You are required to model the demand for shared bikes with the available indepen
 
 
 ## Technologies Used
-numpy                     2.1.3
-pandas                    2.2.3
-seaborn                   0.13.2
-scikit-learn              1.6.1
-statsmodels               0.14.4
-jupyterlab                4.3.2
-matplotlib                3.10.0
+- numpy                     2.1.3
+- pandas                    2.2.3
+- seaborn                   0.13.2
+- scikit-learn              1.6.1
+- statsmodels               0.14.4
+- jupyterlab                4.3.2
+- matplotlib                3.10.0
 
 
 
